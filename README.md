@@ -1,30 +1,18 @@
-*“What good is an idea if it remains an idea? Try. Experiment. Iterate.” - Simon Sinek* 
+<p align="center"><em>“What good is an idea if it remains an idea? Try. Experiment. Iterate.” - Simon Sinek </em></p>
+<hr>
 
-**Hello, I am Anisha 👋 A Software Engineer currently pursuing her Masters in Computer Science** 🖥️
-
-<!--Also check out this cool Chrome Extension I developed : [CopyTab URLs](https://chrome.google.com/webstore/detail/copytab-urls/lolhdpcjpflggojkdoamneplianpomnl?hl=en)
-<br> If you are someone who has a million tabs open and get fustrated with you have to share them with someone or just need to copy the links to save it on yout notepad, then
-THIS EXTENSION IS FOR YOU! 
-Copy all open tabs in just one click! And paste it wherever you want to :) -->
+<h3 align="center">Hello, I am Anisha 👋 </h3>
+<p align="center"><b>A Software Engineer currently pursuing her Masters in Computer Science 🖥️</b></p>
+<p align="center">Graduating December 2023 <br> Former Software Engineer at BNP Paribas (2019-2021) </p>
 
 #### 🌟 Check Out My Chrome Extension: [CopyTab URLs](https://chrome.google.com/webstore/detail/copytab-urls/lolhdpcjpflggojkdoamneplianpomnl?hl=en)
 
-If you find yourself with a million tabs open and feel frustrated when you need to share them or save the links, **this extension is for you!** Copy all open tabs with just one click and paste them wherever you like!
+&nbsp;&nbsp;&nbsp;&nbsp;If you find yourself with a million tabs open and feel frustrated when you need to share them or or just need to copy the links to save it on your notepad, **this extension is for you!** 
+<br>Copy all open tabs with just one click! And paste them wherever you like :) 
+
+#### 👩‍💻 Currently working on : [Task Organizer Project](https://github.com/anisha-w/TaskOrganizer/blob/main/README.md)
+
+I love planning my day and moving tasks around—it’s really satisfying! This led me to create TaskOrganizer. It’s a simple web app that lets you create tasks, color-code them, and drop them onto a calendar. Next Feature : Export all tasks so that you can seamlessly import your schedule onto your outlook or google calender.   
 
 If you're interested in collaborating or have any feedback to share, feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/anisha-wadhwani/) 
 
-
-<!--
-**anisha-w/anisha-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
