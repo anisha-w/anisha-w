@@ -11,6 +11,5 @@ If you find yourself with a million tabs open and feel frustrated when you need 
 #### 👩‍💻 Currently working on : [Task Organizer Project](https://github.com/anisha-w/TaskOrganizer/blob/main/README.md)
 I love planning my day and moving tasks around—it’s really satisfying! This led me to create TaskOrganizer. It’s a simple web app that lets you create tasks, color-code them, and drop them onto a calendar. 
 
-Check out my resume at :  [Resume](https://anisha-wadhwani-resume.tiiny.site) <br>
 If you're interested in collaborating or have any feedback to share, feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/anisha-wadhwani/) 
 
