@@ -2,7 +2,7 @@
 <hr>
 
 <h3 align="center">Hello, I am Anisha 👋 </h3>
-<p align="center"><b>A Software Engineer recently graduated with a Masters in Computer Science 🖥️</b></p>
+<p align="center"><b>A Software Engineer with 2.5 years of experience and a recent graduate with a Masters in Computer Science 🖥️</b></p>
 <p align="center">University of Florida 2023 | Former Software Engineer at BNP Paribas (2019-2021) </p>
 
 #### 🌟 Check Out My Chrome Extension: [CopyTab URLs](https://chrome.google.com/webstore/detail/copytab-urls/lolhdpcjpflggojkdoamneplianpomnl?hl=en)
